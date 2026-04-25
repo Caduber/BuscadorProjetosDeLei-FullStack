@@ -1,5 +1,5 @@
-💻 Projeto Fullstack
-Desenvolvido por Bruno Meleiro Dutra e Carlos Eduardo Mazali Drago
+# 💻 Projeto Fullstack
+## Desenvolvido por Bruno Meleiro Dutra e Carlos Eduardo Mazali Drago
 
 # Getting Started with Create React App
 
